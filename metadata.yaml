@@ -1,0 +1,34 @@
+_repo: Thoughts-Out-of-Season--Part-II-_38226
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Collins, Adrian
+    gutenberg_agent_id: '39324'
+    url: http://www.gutenberg.org/2009/agents/39324
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nietzsche, Friedrich Wilhelm
+    birthdate: 1844
+    deathdate: 1900
+    gutenberg_agent_id: '779'
+    url: http://www.gutenberg.org/2009/agents/779
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Nietzsche
+description: ''
+gutenberg_issued: '2011-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38226'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'History -- Study and teaching'
+- !lcsh 'Schopenhauer, Arthur, 1788-1860'
+tableOfContents: The use and abuse of history -- Schopenhauer as educator.
+title: Thoughts Out of Season, Part II
+url: http://www.gutenberg.org/ebooks/38226
